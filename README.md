@@ -1,3 +1,9 @@
+# Projeto migrado
+
+Este projeto foi migrado para Next, e mantive a vesão em react para quem tiver a curiosidade de ver como foi o desenvolvimeto através do React.
+
+Caso queria ver o projeto que está em produção, [Clique Aqui](https://github.com/MatheusGalhani/portfolio)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
